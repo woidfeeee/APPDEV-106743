@@ -6,6 +6,8 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
+![Python logo](/assets/python-logo@2x.png)
+
 ## Why Python is Popular
 
 ---
@@ -101,8 +103,8 @@ When the code is run, it will print "Hello, John".
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
 
-| Function  | Description                                                                     |
-| :-------- | :------------------------------------------------------------------------------ |
+| Function  | Description                                                                 |
+| :-------- | :-------------------------------------------------------------------------- |
 | `print()` | The *print* function is used to display output to the console.              |
 | `len()`   | The *len* function is used to find the length of a string or a list.        |
 | `str()`   | The *str* function is used to convert a value to a string.                  |
